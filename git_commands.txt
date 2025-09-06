@@ -3,3 +3,6 @@
 hello bhai i am Samarth Vohra
 I will teach you basics to advance everything
 
+
+hey i am new feature branch
+please merge me after you r done
